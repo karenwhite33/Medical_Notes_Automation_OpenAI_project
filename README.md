@@ -1,29 +1,29 @@
 # **Medical Notes Automation OpenAI project**
 
-## ⚕ **Liberando a los Médicos del Burocrático: Toma de Notas Clínicas Automatizada con IA**
+## ⚕ **Freeing Doctors from Bureaucracy: Automated Clinical Note-Taking with AI**
 
-La sobrecarga administrativa en el ámbito médico es una problemática que afecta significativamente la eficiencia y el bienestar de los profesionales de la salud.
+Administrative overload in the medical field is an issue that significantly affects the efficiency and well-being of healthcare professionals.
 
-# **Objetivo:**
-Crear un sistema que genere notas de evolución clínica detalladas a partir de entradas de audio, utilizando OpenAI.
+# **Objective:**
+Create a system that generates detailed clinical progress notes from audio input, using OpenAI.
 
-Herramientas a Utilizar
+Tools to Use
 
-1. Reconocimiento de Voz (Speech-to-Text)
-SpeechRecognition (Librería de Python): Alternativa de código abierto.
-2. Procesamiento de Lenguaje Natural (PLN)
-OpenAI API: Para generar texto estructurado a partir de los datos transcritos.
-3. Manejo de Datos y Preprocesamiento
-Pandas: Para estructurar los datos de entrada y salida.
-JSON: Para almacenar datos estructurados.
-4. Entorno de Ejecución
+1. Voice Recognition (Speech-to-Text)
+SpeechRecognition (Python Library): Open-source alternative.
+2. Natural Language Processing (NLP)
+OpenAI API: To generate structured text from transcribed data.
+3. Data Handling and Preprocessing
+Pandas: To structure input and output data.
+JSON: To store structured data.
+4. Execution Environment
 Google Colab.
 
 
-## 🛑 **Funcionalidades ClinicNotesAI**
+## 🛑 **ClinicNotesAI Features**
 
-1. Entrada de audio: Carga de archivos de voz.
-2. Transcripción de audio: Conversión de voz a texto.
-3. Generación de notas clínicas: Creación de informes médicos detallados.
-4. Revisión y edición: Corrección manual opcional.
-5. Exportación: Guardado en formatos como PDF, CSV o JSON.
+1. Audio input: Upload voice files.
+2. Audio transcription: Convert voice to text.
+3. Clinical note generation: Create detailed medical reports.
+4. Review and editing: Optional manual correction.
+5. Export: Save in formats such as PDF, CSV, or JSON.
